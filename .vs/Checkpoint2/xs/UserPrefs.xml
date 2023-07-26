@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{EA21C0C5-B1A8-4863-9811-D5A3575B489B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Checkpoint2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Checkpoint2/FileHandler.cs">
+    <Files>
+      <File FileName="Checkpoint2/ProductListApp.cs" Line="1" Column="1" />
+      <File FileName="Checkpoint2/ConsoleStyler.cs" Line="178" Column="6" />
+      <File FileName="Checkpoint2/FileHandler.cs" Line="10" Column="137" />
+      <File FileName="Checkpoint2/ConsoleUtils.cs" />
+      <File FileName="Checkpoint2/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Checkpoint2" expanded="True">
+            <Node name="Checkpoint2" expanded="True">
+              <Node name="FileHandler.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

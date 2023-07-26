@@ -1,0 +1,11 @@
+Electronics;Oven;1600
+Footware;Sandal;200
+Home decore;Lamp;400
+Vehicle;Mopet;5000
+Home Decore;Vase;15Kitchenware;Pan;65
+Bowl;Bowl;10efw;we;44
+wer;er;44
+er;56;45
+ert;we;55
+c;sd;55
+we are;family;6900

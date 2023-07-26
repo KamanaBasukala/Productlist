@@ -1,0 +1,15 @@
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/bin/Debug/net6.0/Checkpoint2
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/bin/Debug/net6.0/Checkpoint2.deps.json
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/bin/Debug/net6.0/Checkpoint2.runtimeconfig.json
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/bin/Debug/net6.0/Checkpoint2.dll
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/bin/Debug/net6.0/Checkpoint2.pdb
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.csproj.AssemblyReference.cache
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.AssemblyInfoInputs.cache
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.AssemblyInfo.cs
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.csproj.CoreCompileInputs.cache
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.dll
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/refint/Checkpoint2.dll
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.pdb
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/Checkpoint2.genruntimeconfig.cache
+/Users/kamanabasukalasujakhu/Documents/Lexicon/Checkpoint/Checkpoint2/Checkpoint2/obj/Debug/net6.0/ref/Checkpoint2.dll
